@@ -1,0 +1,68 @@
+npm install git-commit-msg-linter --save-dev
+npm i -D typescript @types/node
+npm install --save-dev \
+  typescript@^4 \
+  eslint@^7.12.1 \
+  eslint-plugin-promise@^5.0.0 \
+  eslint-plugin-import@^2.22.1 \
+  eslint-plugin-node@^11.1.0 \
+  @typescript-eslint/eslint-plugin@^4.0.1 \
+  eslint-config-standard-with-typescript@latest
+npm i --save-dev eslint-config-standard
+npm i --save-dev husky
+npm i lint-staged -D
+
+npm i --save-dev jest dotenv eslint i npm supertest ts-jest -ts-node ts-node-dev typescript
+npm i --save email-validator express fast-glob validator
+npm i --save-dev @shelf/jest-mongodb @types/email-validator @types/express @types/jest @types/mongodb @types/node @types/supertest @types/validator @typescript-eslint/eslint-plugin eslint-config-standard-with-typescript eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard git-commit-msg-linter
+
+
+git init
+git status
+git add .
+git commit -m"chore: explication o message"
+git log
+
+
+
+
+
+Git course
+git config --global --list
+git config --global user.name username
+git config --global user.email email
+cat -/..gitconfig
+git config --global core.editor @notepad++.exe -multiInst -nosession@
+git config --global -e
+git config --global merge.tool p4merge
+git config --global mergetool.p4merge.path @route@
+git config --global mergetool.prompt false
+git config --global diff.tool p4merge
+git config --global diff.tool.p4merge @route@
+git config --global difftool.prompt false
+git  config --global core.editor "mate -w"
+git config --global -e
+cd /Applications/p4merge.app/Contents/MacOS/
+
+git config --global diff.tool p4merge
+git config --global difftool.p4merge.path /Applications/p4merge.app/Contents/MacOS
+
+
+
+Mesa redonda
+Freezer blanco
+Freezer gris
+4 estantes de madera
+Mueble anaranjado
+Silla negra
+Cajas de cerveza
+Cajas de refresco
+Mercancia
+
+Mesa blanca plastica
+Base televisor
+Taladro
+Cocina dos hornillas
+
+
+
